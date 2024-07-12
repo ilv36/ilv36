@@ -20,7 +20,7 @@
 </p>
 <hr/>
 
-<div align="center">📊 Stats<div/>
+
 <br>
 
 
@@ -30,4 +30,4 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luxz999/luxz999/output/github-contribution-grid-snake.svg" />
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=gradient&text=luxz&section=footer&reversal=false&animation=blinking&textBg=false&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=%20ilv&textBg=false&animation=blink"/>
