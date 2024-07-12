@@ -18,12 +18,11 @@
 <p align="center">
     <img title="REgenz" alt="REgev dc" src="https://discord.c99.nl/widget/theme-1/974590848421470228.png"/>
 </p>
-<hr/>
 
 
 
 
-
+<br>
 <hr/>
 <div align="center">🐍 Snake eats my contribution<div/>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luxz999/luxz999/output/github-contribution-grid-snake.svg" />
