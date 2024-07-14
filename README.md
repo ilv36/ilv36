@@ -1,3 +1,4 @@
+```html
 <p style="color:red; animation: blinker 1s linear infinite;">This text will blink</p>
 
 <style>
@@ -7,3 +8,4 @@
   }
 }
 </style>
+```
